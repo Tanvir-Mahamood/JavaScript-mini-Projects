@@ -38,3 +38,5 @@ Clone this repository to your local machine using Git.
 Navigate to the desired project subfolder using your terminal.
 Open the project's main HTML file (usually index.html) in a web browser to run it.
   
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
